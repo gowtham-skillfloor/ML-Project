@@ -4,3 +4,4 @@ Pandas
 NumPy
 Joblib
 Matplotlib
+Flask
