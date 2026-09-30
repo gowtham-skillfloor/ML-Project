@@ -8,3 +8,4 @@ Tools used:
 * Scikit-learn
 * Matplotlib
 * Seaborn
+* Pickle
