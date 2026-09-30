@@ -3,3 +3,4 @@ numpy == 1.0.1
 matplotlib == 2.0.1
 pandas == 1.1.0
 seaborn == 1.1.1
+pickle == 1.2.2
